@@ -16,7 +16,7 @@
         12. Category型与离散化
         13. Object型的文本操作（待完成）
         14. groupby详解（待完成）
-        15. ……
+        15. pandas_sql
 
 </details>
 
