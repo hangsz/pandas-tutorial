@@ -46,6 +46,6 @@
 
 ## 感觉有收货，可以请我喝杯咖啡
 
-![](\resource\pay.png)
+![Image](\resource\pay.png)
 
 
